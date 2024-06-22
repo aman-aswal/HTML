@@ -19,13 +19,11 @@ To view this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/movie-catalog.git
+    git https://github.com/aman-aswal/Movie-Catalog
     ```
 
 2. Navigate to the project directory:
-    ```sh
-    cd movie-catalog
-    ```
+   
 
 3. Open `movie.html` in your web browser to view the project.
 
